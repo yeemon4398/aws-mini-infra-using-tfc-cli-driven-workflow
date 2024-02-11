@@ -2,6 +2,9 @@
 ## Architecture ##
 ![Cohort-tfc-cli-driven-wf](https://github.com/yeemon4398/aws-mini-infra-using-tfc-cli-driven-workflow/assets/40330106/39cc0b29-235b-4129-a96b-5976bfe53136)
 
+## Terraform Cloud's CLI-Driven Workflow ##
+![Cohort-tfc-cli-driven](https://github.com/yeemon4398/aws-mini-infra-using-tfc-cli-driven-workflow/assets/40330106/dd039a1e-30c6-45ae-8b85-aaa0d4c35022)
+
 ## Summary ##
 - Included platforms and services
 - Pre-requisites
