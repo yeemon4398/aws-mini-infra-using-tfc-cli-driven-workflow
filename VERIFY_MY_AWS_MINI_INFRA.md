@@ -1,4 +1,4 @@
-# Create a mini infrastructure on the AWS cloud using Terraform Cloud's CLI-driven workflow #
+# Verify my mini infrastructure at at AWS Cloud #
 
 ## VPC ##
 ![image](https://github.com/yeemon4398/aws-mini-infra-using-tfc-cli-driven-workflow/assets/40330106/782c74cb-f32f-488f-ad38-621af6fac8e8)
