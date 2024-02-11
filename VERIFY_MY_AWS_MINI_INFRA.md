@@ -36,5 +36,5 @@
 ### my_nat_gw ###
 ![image](https://github.com/yeemon4398/aws-mini-infra-using-tfc-cli-driven-workflow/assets/40330106/f2b7d025-c5aa-45a7-9cfe-bd36717556b3)
 
-## EC2 Instances ##
+### EC2 Instances ###
 ![image](https://github.com/yeemon4398/aws-mini-infra-using-tfc-cli-driven-workflow/assets/40330106/1ec66bad-e583-45eb-b381-618fd9367f15)
